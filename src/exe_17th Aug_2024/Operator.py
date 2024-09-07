@@ -1,4 +1,4 @@
-#x//y --- gives remainder
+#x//y --- gives quotient
 #x%y--- gives remainder
 #x**y --- x to the power y
 
