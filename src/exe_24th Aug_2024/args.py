@@ -1,4 +1,4 @@
-# *args ---- unlimited number of arguments
+# *args ---- unlimited number of arguments in the form of list
 
 def print_arguments(*args):
     print(args[2])
